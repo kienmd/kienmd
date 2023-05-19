@@ -1,4 +1,4 @@
-### Hi 👋 I'm Kien (Ki-yuhn)! 
+### Hi 👋 I'm Kien (Ki-yuhn).
 
 I'm a medic and computer scientist at University College London (UCL). I'm working on building with LLMs within healthcare.
 
